@@ -8,6 +8,10 @@
   },
   "author": "Jesús Segnini (WFG)",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesussegnini/rubiconproject-api-node.git"
+  },
   "dependencies": {
     "request": "^2.88.0"
   },
