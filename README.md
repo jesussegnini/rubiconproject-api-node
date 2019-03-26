@@ -90,7 +90,7 @@ Simple rubicon api module.
     {
         zoneId: Number,
         name: String,
-    	siteId: Number,
+		siteId: Number,
         contentCategoryIds: Array<String>,
         sizeIds: Array<Number>,
         inheritSiteSizes: Boolean
