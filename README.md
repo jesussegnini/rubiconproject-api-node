@@ -88,10 +88,10 @@ Simple rubicon api module.
 #### Zone
 
     {
-        zoneId: Number,
-        name: String,
+		zoneId: Number,
+		name: String,
 		siteId: Number,
-        contentCategoryIds: Array<String>,
-        sizeIds: Array<Number>,
-        inheritSiteSizes: Boolean
+		contentCategoryIds: Array<String>,
+		sizeIds: Array<Number>,
+		inheritSiteSizes: Boolean
     }
